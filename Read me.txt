@@ -1,0 +1,29 @@
+El documento está dividido por secciones. Tiene notas sobre el código,
+ya realizado.
+
+*---------------------------------------------------------------------*
+* 1- Creación de un sitio Web - Archivo:                              *           
+*---------------------------------------------------------------------*
+
+*---------------------------------------------------------------------*
+* 2- Aplicar estilos a la página principal  - Archivo: Estilos.css    *           
+*---------------------------------------------------------------------*
+Etiquetas:
+-body
+-span
+-div 
+-table
+-select
+-hr
+
+Clases: (NO están aplicadas)
+-titulo --->DUDA: text-decoration: blink ¿Funciona?
+-boton
+-texto
+*---------------------------------------------------------------------*
+* 3- Cambiar el la forma envío por ‘POST’ - Archivo:                  *           
+*---------------------------------------------------------------------*
+
+*---------------------------------------------------------------------*
+* 4. Cookies - Archivo:                                               *           
+*---------------------------------------------------------------------*
